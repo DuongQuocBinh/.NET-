@@ -1,0 +1,12 @@
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\QuanLyThuVien.mdf
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\QuanLyThuVien_log.ldf
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe.config
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.pdb
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.AssemblyReference.cache
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_QuanLySach.resources
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Properties.Resources.resources
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.GenerateResource.cache
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CoreCompileInputs.cache
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.pdb

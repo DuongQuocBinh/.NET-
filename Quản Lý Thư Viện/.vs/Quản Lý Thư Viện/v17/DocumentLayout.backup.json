@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\duong\\source\\repos\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\duong\\source\\repos\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\duong\\source\\repos\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\duong\\source\\repos\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\duong\\source\\repos\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\duong\\source\\repos\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +35,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Form1.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Form1.cs",
-              "ToolTip": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Form1.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Form1.cs [Design]",
+              "Title": "frm_ThongKeBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
+              "ToolTip": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:34:22.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs",
+              "ToolTip": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:34:01.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_QuanLyMuonTraSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "ToolTip": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:33:38.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_QuanLyDocGia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "ToolTip": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:32:57.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QuanLySach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
+              "ToolTip": "C:\\Users\\duong\\source\\repos\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T13:29:59.06Z",
               "EditorCaption": " [Design]"
