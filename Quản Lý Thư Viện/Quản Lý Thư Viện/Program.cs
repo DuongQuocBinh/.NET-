@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLyThuVien;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace Quản_Lý_Thư_Viện
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(mainForm: new frm_DangNhap());
+            Application.Run(new frm_ThongKeBaoCao());
         }
     }
 }
