@@ -1,35 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\",
+  "WorkspaceRootPath": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|d:\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|d:\\l\u1EA1p-trinh-ung-dung.net\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|d:\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__L\u1EA0P_TRINH_UNG_DUNG.NET_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Readers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.DocGia.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.NguoiDung.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.PhieuMuon.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,97 +37,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frm_ThongKeBaoCao.Designer.cs",
-              "DocumentMoniker": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.Designer.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.Designer.cs",
-              "ToolTip": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.Designer.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:07:09.942Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "dbo.Readers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__L\u1EA0P_TRINH_UNG_DUNG.NET_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Readers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__L\u1EA0P_TRINH_UNG_DUNG.NET_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Readers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-20T03:25:22.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "ToolTip": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBMAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frm_QuanLyDocGia.cs",
+              "DocumentMoniker": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "ToolTip": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:36:48.647Z",
+              "WhenOpened": "2025-05-18T09:50:10.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "dbo.DocGia.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.DocGia.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.DocGia.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-21T00:14:18.095Z"
+              "Title": "frm_ThongKeBaoCao.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
+              "ToolTip": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:34:22.35Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "dbo.NguoiDung.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.NguoiDung.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.NguoiDung.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-21T00:14:12.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.PhieuMuon.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.PhieuMuon.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.PhieuMuon.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-21T00:13:03.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frm_ThongKeBaoCao.cs [Design]",
-              "DocumentMoniker": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "ToolTip": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
+              "Title": "frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs",
+              "ToolTip": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T00:10:24.97Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-13T13:34:01.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LopDungChung.cs",
-              "DocumentMoniker": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LopDungChung.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LopDungChung.cs",
-              "ToolTip": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LopDungChung.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LopDungChung.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Title": "frm_QuanLyMuonTraSach.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "ToolTip": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T06:47:18.666Z"
+              "WhenOpened": "2025-05-13T13:33:38.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frm_ThongKeBaoCao.cs",
-              "DocumentMoniker": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "ToolTip": "D:\\ProjectWinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frm_QuanLyDocGia.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
+              "ToolTip": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:22:08.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T13:32:57.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QuanLySach.cs [Design]",
+              "DocumentMoniker": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
+              "ToolTip": "D:\\L\u1EA1p-trinh-ung-dung.NET\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:29:59.06Z"
             }
           ]
         }

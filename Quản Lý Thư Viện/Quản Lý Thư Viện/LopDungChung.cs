@@ -1,38 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Quản_Lý_Thư_Viện
 {
-    internal class LopDungChung
+    class LOPDUNGCHUNG
     {
-        private string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\QuanLyThuVien.mdf;Integrated Security=True";
-
-        public DataTable LayDLBang(string sql)
+        SqlConnection conn;
+        public LOPDUNGCHUNG()
         {
-            using (SqlConnection conn = new SqlConnection(connectionString))
-            {   
-                SqlDataAdapter da = new SqlDataAdapter(sql, conn);
-                DataTable dt = new DataTable();
-                da.Fill(dt);
-                return dt;
-            }
+            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\Lạp-trinh-ung-dung.NET\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\QuanLyThuVien.mdf"";Integrated Security=True";
+            conn = new SqlConnection(chuoikn);
         }
-
+        //Viết phương thức cho các nút Thêm Sửa Xoá
         public int ThemSuaXoa(string sql)
         {
-            using (SqlConnection conn = new SqlConnection(connectionString))
-            {
-                SqlCommand cmd = new SqlCommand(sql, conn);
-                conn.Open();
-                int kq = cmd.ExecuteNonQuery();
-                conn.Close();
-                return kq;
-            }
+            SqlCommand comm = new SqlCommand(sql, conn);
+            conn.Open();
+            int kq = comm.ExecuteNonQuery();
+            conn.Close();
+            return kq;
+        }
+        //Viết phương thức cho các nút Lấy giá trị
+        public object LayGT(string sql)
+        {
+            SqlCommand comm = new SqlCommand(sql, conn);
+            conn.Open();
+            object kq = comm.ExecuteScalar();
+            conn.Close();
+            return kq;
+        }
+        //Viết phương thức cho dữ liệu bảng
+        public DataTable LayDLBang(string sql)
+        {
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
+            return dt;
         }
     }
 }

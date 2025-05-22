@@ -50,8 +50,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Windows.Forms.DataVisualization" />
-    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -93,14 +91,14 @@
     <Compile Include="frm_ThongKeBaoCao.Designer.cs">
       <DependentUpon>frm_ThongKeBaoCao.cs</DependentUpon>
     </Compile>
-    <Compile Include="LopDungChung.cs" />
+    <Compile Include="LOPDUNGCHUNG.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_QuanLyDocGia.resx">
+      <DependentUpon>frm_QuanLyDocGia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_QuanLySach.resx">
       <DependentUpon>frm_QuanLySach.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_ThongKeBaoCao.resx">
-      <DependentUpon>frm_ThongKeBaoCao.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
