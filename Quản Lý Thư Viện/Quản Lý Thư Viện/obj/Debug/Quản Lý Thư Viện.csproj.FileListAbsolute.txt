@@ -10,3 +10,7 @@ C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\De
 C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CoreCompileInputs.cache
 C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe
 C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.pdb
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Guna.UI2.dll
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_DangNhap.resources
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Qu_n L_ .0B0366D5.Up2Date
+C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_DangKi.resources
