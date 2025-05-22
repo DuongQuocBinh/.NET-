@@ -94,9 +94,6 @@
     <Compile Include="LOPDUNGCHUNG.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frm_QuanLyDocGia.resx">
-      <DependentUpon>frm_QuanLyDocGia.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frm_QuanLySach.resx">
       <DependentUpon>frm_QuanLySach.cs</DependentUpon>
     </EmbeddedResource>

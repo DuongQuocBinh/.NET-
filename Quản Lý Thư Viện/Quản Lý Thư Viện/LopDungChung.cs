@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Data.SqlClient;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +13,7 @@ namespace Quản_Lý_Thư_Viện
         SqlConnection conn;
         public LOPDUNGCHUNG()
         {
-            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\Lạp-trinh-ung-dung.NET\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\QuanLyThuVien.mdf"";Integrated Security=True";
+            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\QuanLyThuVien.mdf"";Integrated Security=True";
             conn = new SqlConnection(chuoikn);
         }
         //Viết phương thức cho các nút Thêm Sửa Xoá
