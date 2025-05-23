@@ -1,45 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\",
+  "WorkspaceRootPath": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FPT_SHOP_C__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.PhieuMuon.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|d:\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_thongkebaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FPT_SHOP_C__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Sach.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Sach.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\fpt shop\\c#\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlytrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlytrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|d:\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\fpt shop\\c#\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlytrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlytrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|d:\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\fpt shop\\c#\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlytrasach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlytrasach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\fpt shop\\c#\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlysach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|c:\\users\\fpt shop\\c#\\projectwinform\\.net-\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlymuontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A088B896-B8A7-4C0A-8797-CD211FE48936}|Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n.csproj|solutionrelative:qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\frm_quanlydocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,126 +36,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_ThongKeBaoCao.cs [Design]",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_ThongKeBaoCao.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "frm_QuanLyMuonTraSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:35:49.823Z",
+              "WhenOpened": "2025-05-22T18:12:52.765Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.Sach [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Sach.sql",
-              "ToolTip": "dbo.Sach [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-21T05:32:20.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frm_QuanLySach.cs [Design]",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs [Design]",
+              "Title": "frm_QuanLyTraSach.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwGgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:29:59.06Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LOPDUNGCHUNG.cs",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LOPDUNGCHUNG.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LOPDUNGCHUNG.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LOPDUNGCHUNG.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\LOPDUNGCHUNG.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:32:01.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:31:57.198Z",
+              "WhenOpened": "2025-05-22T18:08:46.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "frm_QuanLySach.cs",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIA2wEEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T00:36:17.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frm_QuanLySach.Designer.cs",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.Designer.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.Designer.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.Designer.cs",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLySach.Designer.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAvwJ8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T00:39:19.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frm_DangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_DangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:34:01.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frm_QuanLyMuonTraSach.cs [Design]",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "Title": "frm_QuanLyMuonTraSach.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs [Design]",
+              "ToolTip": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyMuonTraSach.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:33:38.837Z"
+              "WhenOpened": "2025-05-22T18:08:17.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frm_QuanLyDocGia.cs [Design]",
-              "DocumentMoniker": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs",
-              "ToolTip": "D:\\ProjectWinForm\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyDocGia.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "frm_QuanLyTraSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:32:57.258Z"
+              "WhenOpened": "2025-05-22T18:07:58.009Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.PhieuMuon [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FPT_SHOP_C__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.PhieuMuon.sql",
+              "ToolTip": "dbo.PhieuMuon [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T18:07:51.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Sach [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_FPT_SHOP_C__PROJECTWINFORM_.NET__QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QU\u1EA2N_L\u00DD_TH\u01AF_VI\u1EC6N_QUANLYTHUVIEN.MDF/True/SqlTable/dbo.Sach.sql",
+              "ToolTip": "dbo.Sach [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-22T18:07:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QuanLyTraSach.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.Designer.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.Designer.cs",
+              "ToolTip": "C:\\Users\\FPT SHOP\\C#\\projectwinform\\.NET-\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.Designer.cs",
+              "RelativeToolTip": "Qu\u1EA3n L\u00FD Th\u01B0 Vi\u1EC7n\\frm_QuanLyTraSach.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwHQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:16:54.831Z",
+              "EditorCaption": ""
             }
           ]
         }
