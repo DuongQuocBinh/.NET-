@@ -16,7 +16,7 @@ namespace Quản_Lý_Thư_Viện
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_QuanLySach());
+            Application.Run(new frm_QuanLyTraSach());
         }
     }
 }

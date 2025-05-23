@@ -8,23 +8,26 @@ using System.Threading.Tasks;
 
 namespace Quản_Lý_Thư_Viện
 {
-    class LOPDUNGCHUNG
+    class LopDungChung
     {
         SqlConnection conn;
-        public LOPDUNGCHUNG()
+        public LopDungChung()
         {
-            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\QuanLyThuVien.mdf"";Integrated Security=True";
+            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\QuanLyThuVien.mdf"";Integrated Security=True";
             conn = new SqlConnection(chuoikn);
         }
-        //Viết phương thức cho các nút Thêm Sửa Xoá
-        public int ThemSuaXoa(string sql)
+        //Viết phương thức cho các nút Thêm Sửa
+        public int ThemSua(string sql, List<SqlParameter> parameters)
         {
             SqlCommand comm = new SqlCommand(sql, conn);
+            if (parameters != null)
+                comm.Parameters.AddRange(parameters.ToArray());
             conn.Open();
             int kq = comm.ExecuteNonQuery();
             conn.Close();
             return kq;
         }
+        
         //Viết phương thức cho các nút Lấy giá trị
         public object LayGT(string sql)
         {

@@ -48,7 +48,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -61,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LopDungChung.cs" />
     <Compile Include="frm_DangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,17 +88,28 @@
     <Compile Include="frm_QuanLySach.Designer.cs">
       <DependentUpon>frm_QuanLySach.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_QuanLyTraSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QuanLyTraSach.Designer.cs">
+      <DependentUpon>frm_QuanLyTraSach.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_ThongKeBaoCao.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_ThongKeBaoCao.Designer.cs">
       <DependentUpon>frm_ThongKeBaoCao.cs</DependentUpon>
     </Compile>
-    <Compile Include="LOPDUNGCHUNG.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_QuanLyMuonTraSach.resx">
+      <DependentUpon>frm_QuanLyMuonTraSach.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_QuanLySach.resx">
       <DependentUpon>frm_QuanLySach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QuanLyTraSach.resx">
+      <DependentUpon>frm_QuanLyTraSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

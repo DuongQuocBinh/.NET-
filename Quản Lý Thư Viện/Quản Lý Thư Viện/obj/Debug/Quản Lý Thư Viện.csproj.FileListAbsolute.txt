@@ -10,15 +10,17 @@ C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\De
 C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CoreCompileInputs.cache
 C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe
 C:\Users\duong\source\repos\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.pdb
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\QuanLyThuVien.mdf
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\QuanLyThuVien_log.ldf
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe.config
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.pdb
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.AssemblyReference.cache
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_QuanLySach.resources
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Properties.Resources.resources
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.GenerateResource.cache
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CoreCompileInputs.cache
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe
-D:\ProjectWinForm\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.pdb
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\QuanLyThuVien.mdf
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\QuanLyThuVien_log.ldf
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe.config
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.pdb
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_QuanLyMuonTraSach.resources
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_QuanLySach.resources
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Properties.Resources.resources
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.GenerateResource.cache
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.pdb
+C:\Users\FPT SHOP\C#\projectwinform\.NET-\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.frm_QuanLyTraSach.resources
